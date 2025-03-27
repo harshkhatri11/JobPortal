@@ -19,7 +19,7 @@
 ✅ **General Features**  
 - **MVC architecture** using Spring Boot  
 - **Thymeleaf templating engine** for dynamic web pages  
-- **PostgreSQL database** for storing job and user details  
+- **SQL database** for storing job and user details  
 - **File Upload** functionality for profile images and resumes  
 
 ---
@@ -38,7 +38,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge)
 
 ### 🗄️ **Database**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-ORM-green?style=for-the-badge)
 
 ### 🚀 **DevOps & Deployment**
@@ -63,7 +63,7 @@ cd job-portal
  Update the `application.properties` file with your database   credentials:
 
 ```properties
-spring.datasource.url=jdbc:postgresql://localhost:5432/jobPortal
+spring.datasource.url=jdbc:mysql://localhost:3306/jobPortal
 spring.datasource.username=your_db_username
 spring.datasource.password=your_db_password
 ```
