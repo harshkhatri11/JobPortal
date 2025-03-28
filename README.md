@@ -41,6 +41,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-ORM-green?style=for-the-badge)
 
+![Image](src/main/resources/static/assets/jobportal_diagram.png)
+
+
 ### 🚀 **DevOps & Deployment**
 ![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-black?style=for-the-badge&logo=github)
 ![Maven](https://img.shields.io/badge/Maven-Build%20Tool-red?style=for-the-badge&logo=apache-maven)
@@ -78,5 +81,31 @@ Once the application starts, open your browser and visit:
 http://localhost:8080
 ```
 
+# Job Portal Home Page
+
+
+![Image](src/main/resources/static/assets/JobPortal_app_homepage.png)
+
+
+
+# Job Seeker
+
+
+![Image](src/main/resources/static/assets/Job_seeker_landing_page.png)
+
+![Image](src/main/resources/static/assets/Job_seeker_profile.png)
+
+![Image](src/main/resources/static/assets/Job_seeker_view_detail_job_desc.png)
+
+
+
+# Recruiter
+
+
+![Image](src/main/resources/static/assets/Recruiter_landing_page.png)
+
+![Image](src/main/resources/static/assets/Recruiter_post_new_job.png)
+
+![Image](src/main/resources/static/assets/Recruiter_posted_job_view.png)
 
 
